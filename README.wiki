@@ -31,9 +31,9 @@
 
 首选，你需要安装 BTSync（ResilioSync）软件。它的【官网】下载链接是：[https://www.getsync.com/]
 
-要使用 BT Sync（Resilio Sync）同步电子书，你需要在 BT Sync 界面上添加相应的密钥（密钥写在本页面【每个分类标题】的下方）。关于 BT Sync 的扫盲教程，请参见“[https://program-think.blogspot.com/2015/01/BitTorrent-Sync.html 这篇博文]”。
+要使用 BT Sync（Resilio Sync）同步电子书，你需要在主界面上添加相应的密钥（密钥写在本页面【每个大类】的标题下方）。关于 BT Sync 的扫盲教程，请参见“[https://program-think.blogspot.com/2015/01/BitTorrent-Sync.html 这篇博文]”。
 
-BT Sync 从“1.4 版本”一直到“目前最新版本”，都可以用来同步俺的电子书。早期的 1.4.x 版本支持 DHT 功能，可以在墙内【免翻墙】使用。2.0 之后的版本不再支持 DHT，无法享受这一好处。关于 DHT 功能如何开启，请参见“[https://program-think.blogspot.com/2017/08/GFW-Resilio-Sync.html 这篇博文]”。
+BT Sync 从“1.4 版本”一直到“目前最新版本”，都可以用来同步俺的电子书。早期的 1.4.x 版本支持 DHT 功能，可以在墙内【免翻墙】使用。2.0 之后的版本不再支持 DHT，无法享受这一好处。关于 DHT 功能如何开启，请翻墙打开“[https://program-think.blogspot.com/2017/08/GFW-Resilio-Sync.html 这篇博文]”。
 
 <h3>关于“微软网盘”的补充说明</h3>
 
@@ -55,10 +55,10 @@ BT Sync 从“1.4 版本”一直到“目前最新版本”，都可以用来�
 
 * [https://en.wikipedia.org/wiki/Sumatra_PDF Sumatra PDF] 2.0 或者更高版本（绿色软件，除了支持 PDF，还支持其它格式，强烈推荐使用）
 * [https://en.wikipedia.org/wiki/Foxit_Reader Foxit Reader] 3.1.0 或者更高的版本（绿色软件，推荐使用）
-* [https://en.wikipedia.org/wiki/PDF-XChange_Viewer PDF-XChange Viewer] 2.0 或者更高的版本（绿色软件，推荐使用）
-* [https://en.wikipedia.org/wiki/Adobe_Acrobat Acrobat Reader] 7.0 或者更高的版本（Acrobat Reader 太臃肿，不推荐）
+* [https://en.wikipedia.org/wiki/PDF-XChange_Viewer PDF-XChange Viewer] 2.0 或者更高版本（绿色软件，推荐使用）
+* [https://en.wikipedia.org/wiki/Adobe_Acrobat Acrobat Reader] 7.0 或者更高版本（Acrobat Reader 太臃肿，不推荐）
 * 如果你使用 Chrome 浏览器，把 PDF 文件直接拖到 Chrome 窗口里，就可以看
-* 如果你使用 Firefox 浏览器（版本 >= 19.0），把 PDF 文件直接拖到 Firefox 窗口里，就可以看
+* 如果你使用 Firefox 浏览器（19.0 或者更高版本），把 PDF 文件直接拖到 Firefox 窗口里，就可以看
 
 <h3>EPUB 格式</h3>
 
@@ -77,7 +77,7 @@ EPUB 的的阅读软件很多，而且各个平台（Windows、Linux、Mac OS）
 # 弹出“属性对话框”
 # 在属性对话框中，点“解除锁定”钮
 
-用 Mac OS X 的同学，可以考虑用 Chmox 或 iCHM 打开 CHM 电子书；
+用 Mac OS 的同学，可以考虑用 Chmox 或 iCHM 打开 CHM 电子书；
 
 用 Linux 系统的同学，可以考虑用 CHM Viewer 打开 CHM 电子书。
 
@@ -97,7 +97,7 @@ TXT格式的电子书使用 '''UTF-8''' 编码保存。用 Windows 自带的记�
 
 <h2>如何阅读书籍</h2>
 
-考虑到很多网友不善于阅读书籍， '''俺强烈推荐大伙儿看一下《如何阅读一本书》''' ([https://program-think.blogspot.com/2013/04/how-to-read-book.html 俺的书评]、下载地址：[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1250 PDF]、[https://skydrive.live.com/redir?resid=F5B0090663FEEADA!1251 TXT])。此书传授了关于阅读书籍的技巧，非常有价值。
+考虑到很多网友不善于阅读书籍， '''俺强烈推荐大伙儿看一下《如何阅读一本书》''' （[https://program-think.blogspot.com/2013/04/how-to-read-book.html 俺的书评]、[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1250 下载地址]）。此书传授了关于阅读书籍的技巧，非常有价值。
 
 ----
 
@@ -206,6 +206,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
+| 后资本主义社会 || Post-Capitalist Society || (美) [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%BE%B7%E9%B2%81%E5%85%8B 彼得·德鲁克] || 简体PDF(扫描版) || 2018-09-14 || [https://docs.google.com/document/d/1Nxsqf02d5uYu8FGn3K9uNJx_D8Ixh7UCmBvqHnd6LB4/ 简介]
+|-
 | 新教伦理与资本主义精神 || The Protestant Ethic and the Spirit of Capitalism || (德) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%8B%E4%BC%AF 马克斯·韦伯] || 简体HTML<br>简体MOBI || 2014-04-14<br>2015-05-11 || [https://docs.google.com/document/d/1x0ZznHlX_TA2yIhK3oL6QvAGaE-T_x92mD59MRHSYlE/ 简介]
 |-
 | 牛津通识读本：资本主义 || Capitalism || James Fulcher || 简体EPUB<br>简体AZW3 || 2015-12-13<br>2015-12-13 || [https://docs.google.com/document/d/1N0yg3koUOvRhoCT41FXup0sopPDMtCNDwbI4jkV_TlY/ 简介]
@@ -240,7 +242,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || (英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-03-24<br>2013-09-13<br>2015-05-11<br>2016-05-14 || [https://docs.google.com/document/d/1m-lOvfilllJ6I8rjepkM1G1_V9ETelOhjIPtBrTTPhw/ 简介]
 |-
-| 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || (奥地利) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 米塞斯] || 简体PDF(扫描版) || 2013-03-31 || [https://docs.google.com/document/d/1we7zyM4YtWndp6HsYAWqDOm-GOOs2RvX6tQU82f1gyI/ 简介]
+| 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || (奥地利) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 简体PDF(扫描版) || 2013-03-31 || [https://docs.google.com/document/d/1we7zyM4YtWndp6HsYAWqDOm-GOOs2RvX6tQU82f1gyI/ 简介]
+|-
+| 社会主义国家的经济计算 || Economic Calculation in the Socialist Commonwealth || (奥地利) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 英文PDF || 2018-09-22 || [https://docs.google.com/document/d/1cHp-HJtF_d8GOwQu42IVnRj1Z53o9RHNdNoAYsHsZg4/ 简介]
 |-
 | 牛津通识读本：社会主义 || Socialism || Michael Newman || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/16sGEZjHcErdi98gLRhOIcpemi5CGBibxipsdxctHt30/ 简介]
 |}
@@ -1585,11 +1589,9 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 国富论<br>''其它中文名：''<br>国民财富的性质和原因 || The Wealth of Nations || (英) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86 亚当·斯密] || 简体CHM<br>简体MOBI<br>简体TXT || 2013-04-09<br>2015-02-14<br>2016-05-15 || [https://docs.google.com/document/d/1uRlISjTaReYfoLzMlnQV3dY3ZDE4BF1CWt06A1rQYhU/ 简介]
 |-
-| 经济学 || Economics || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 萨缪尔森]<br>(美) [https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%AF%BA%E5%BE%B7%E8%B1%AA%E6%96%AF 诺德豪斯] || 简体PDF(第18版 扫描版) || 2014-02-13 || [https://docs.google.com/document/d/1l4KXP93zhzw87y3BFkKHk0zRNywnY6bq1hMhY_bTO6g/ 简介]
+| 经济学 || Economics || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%96%A9%E7%B9%86%E7%88%BE%E6%A3%AE 保罗·萨缪尔森]<br>(美) [https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%AF%BA%E5%BE%B7%E8%B1%AA%E6%96%AF 威廉·诺德豪斯] || 简体PDF(第18版 扫描版) || 2014-02-13 || [https://docs.google.com/document/d/1l4KXP93zhzw87y3BFkKHk0zRNywnY6bq1hMhY_bTO6g/ 简介]
 |-
 | 经济学原理 || Principles of Economics || (美) [https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9B%BC%E6%98%86 格里高利·曼昆] || 简体PDF(微观分册 第5版 扫描版)<br>简体PDF(宏观分册 第5版 扫描版)<br>简体EPUB(微观分册 第3版 插图版)<br>简体MOBI(微观分册 第3版 插图版)<br>简体TXT || 2013-02-22<br>2013-02-22<br>2015-02-14<br>2015-02-14<br>2016-05-02 || [https://docs.google.com/document/d/1WerDbX5HjqFI4-rtwiIKSEEdSCM3QxEtwkn3BSLr15k/ 简介]
-|-
-| 经济学原理 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF(扫描版) || 2015-07-12 || [https://docs.google.com/document/d/1APvnZGLvlghqKLFfpLvKVzeKJAX9doFuw8r0gn2rTXc/ 简介]
 |-
 | 宏观经济学 || Macroeconomics || (德) [https://en.wikipedia.org/wiki/Rudiger_Dornbusch 鲁迪格·多恩布什] || 简体PDF(第7版 扫描版) || 2015-07-12 || [https://docs.google.com/document/d/1I83iQ9dclfm4uIMYXnkLfnh35GPW2yWoxbQUY742few/ 简介]
 |-
@@ -1599,19 +1601,35 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 |-
 | 微观经济分析 || Microeconomic Analysis || (美) [https://en.wikipedia.org/wiki/Hal_Varian 哈尔·范里安] || 简体PDF(第3版) || 2014-07-15 || [https://docs.google.com/document/d/1LIdHnkOE3Nir9U5wHyY6yPa200OZmylVsejkwuD88bw/ 简介]
 |-
-| 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 凯恩斯] || 简体PDF<br>简体MOBI || 2014-02-22<br>2015-02-14 || [https://docs.google.com/document/d/1IFz770UZNyiVDPnwTCej3o-uIvOv33JvZ1vzKtUKW9Y/ 简介]
+| 就业、利息和货币通论 || The General Theory of Employment, Interest, and Money || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A2%85%E7%BA%B3%E5%BE%B7%C2%B7%E5%87%AF%E6%81%A9%E6%96%AF 约翰·梅纳德·凯恩斯] || 简体PDF<br>简体MOBI || 2014-02-22<br>2015-02-14 || [https://docs.google.com/document/d/1IFz770UZNyiVDPnwTCej3o-uIvOv33JvZ1vzKtUKW9Y/ 简介]
 |-
-| 个人主义与经济秩序 || Individualism and Economic Order || (英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 哈耶克] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-04-10<br>2013-09-13<br>2015-02-14 || [https://docs.google.com/document/d/1n7pZ8RhkgfqAsNctjBw7Lu0IK_6w_V7MehA_mzcGtk0/ 简介]
+| 人的行为<br>——经济学专论<br>''其它中文名：''<br>人类行为的经济学分析 || Human Action<br>——A Treatise on Economics || (奥) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 英文EPUB || 2018-09-15 || [https://docs.google.com/document/d/1SoD0lCENOGExibp1v7ZcMpAcXREbf4MPGn5c9QGd02g/ 简介]
 |-
-| 经济发展理论 || The Theory of Economic Development || (奥) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 熊彼特] || 简体TXT || 2016-05-17 || [https://docs.google.com/document/d/1k9rBue4fNR0XQ-vmZD2NzpVMbA6Jm7gXd0H5IB9kyCk/ 简介]
+| 个人主义与经济秩序 || Individualism and Economic Order || (英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 弗里德里希·哈耶克] || 简体PDF<br>简体EPUB<br>简体MOBI || 2013-04-10<br>2013-09-13<br>2015-02-14 || [https://docs.google.com/document/d/1n7pZ8RhkgfqAsNctjBw7Lu0IK_6w_V7MehA_mzcGtk0/ 简介]
+|-
+| 经济发展理论 || The Theory of Economic Development || (奥) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼特] || 简体TXT || 2016-05-17 || [https://docs.google.com/document/d/1k9rBue4fNR0XQ-vmZD2NzpVMbA6Jm7gXd0H5IB9kyCk/ 简介]
+|-
+| 企业的性质<br>''其它中文名：''<br>公司的本质 || The Nature of the Firm || (英) [https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B3%E5%BE%B7%C2%B7%E7%A7%91%E6%96%AF 罗纳德·科斯] || 英文PDF || 2018-09-18 || [https://docs.google.com/document/d/1z589Ha_g1SpmRmp033pSjhfCHzs2PbpnSSZfPHaSdhg/ 简介]
+|-
+| 社会成本问题 || The Problem of Social Cost || (英) [https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B3%E5%BE%B7%C2%B7%E7%A7%91%E6%96%AF 罗纳德·科斯] || 英文PDF(扫描版) || 2018-09-19 || [https://docs.google.com/document/d/1xx1cswtt6pznijDGdoFf9p-NP99Mb1VTY8Z-F_Gnu_g/ 简介]
 |-
 | 市场经济<br>——大师们的思考 || The Market Economy<br>——A Reader || (美) 詹姆斯·多蒂<br>(美) 德威特·李 || 简体PDF(扫描版) || 2013-04-09 || [https://docs.google.com/document/d/16DAGRW_d0jMAeUBH_rCYaRZ7AbkfKjkgJoqnbx-SXZ4/ 简介]
 |-
 | 以自由看待发展 || Development as Freedom || (印度) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%A9%AC%E8%92%82%E4%BA%9A%C2%B7%E5%BA%93%E9%A9%AC%E5%B0%94%C2%B7%E6%A3%AE 阿马蒂亚·森] || 简体PDF(扫描版) || 2013-04-09 || [https://docs.google.com/document/d/1wADMOFG37vsLWRDca-QSVgOrGrJEh8e4fKHTNgWcbOY/ 简介]
 |-
-| 短缺经济学 || Economics of Shortage || (匈) 雅诺什·科尔奈 || 简体PDF(扫描版) || 2015-01-11 || [https://docs.google.com/document/d/1tLFIJstVhXdd9bJlCzPt_sZAo7FanyhhNY5cje5YJDM/ 简介]
+| 短缺经济学 || Economics of Shortage || (匈) [https://en.wikipedia.org/wiki/J%C3%A1nos_Kornai 雅诺什·科尔奈] || 简体PDF(扫描版) || 2015-01-11 || [https://docs.google.com/document/d/1tLFIJstVhXdd9bJlCzPt_sZAo7FanyhhNY5cje5YJDM/ 简介]
 |-
-| 资本与利息 || Capital and Interest || (奥) [https://zh.wikipedia.org/wiki/%E6%AD%90%E6%A0%B9%C2%B7%E5%8D%9A%E5%A7%86-%E5%B7%B4%E7%B6%AD%E5%85%8B 欧根·冯·庞巴维克] || 繁體PDF(掃描版) || 2018-09-05 || [https://docs.google.com/document/d/1Tj87aYVmTLimd3xYDrjpv-UPkOmbKuNKpO1mVcHl2Tc/ 简介]
+| 经济学原理 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF(扫描版) || 2015-07-12 || [https://docs.google.com/document/d/1APvnZGLvlghqKLFfpLvKVzeKJAX9doFuw8r0gn2rTXc/ 简介]
+|-
+| 经济学原理<br>''其它中文名：''<br>国民经济学原理 || Principles of Economics || (奥) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E9%96%80%E6%A0%BC%E7%88%BE 卡尔·门格尔] || 简体PDF(扫描版)<br>英文PDF || 2018-09-15<br>2018-09-15 || [https://docs.google.com/document/d/1AEyTYHEzJVi2o4aZvCbxCeKbep68MXHKjA5NTzCqrMY/ 简介]
+|-
+| 自然价值 || Natural Value || (奥) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%85%8B%C2%B7%E9%A6%AE%C2%B7%E7%B6%AD%E5%A1%9E%E7%88%BE 弗里德里希·冯·维塞尔] || 英文PDF || 2018-09-15 || [https://docs.google.com/document/d/1Gpjhx1X6tvsm0qy-BeiFIrnX-wTpUw9IMgx6Hcf1I0I/ 简介]
+|-
+| 资本与利息 || Capital and Interest || (奥) [https://zh.wikipedia.org/wiki/%E6%AD%90%E6%A0%B9%C2%B7%E5%8D%9A%E5%A7%86-%E5%B7%B4%E7%B6%AD%E5%85%8B 欧根·冯·庞巴维克] || 繁體PDF(第1卷 掃描版) || 2018-09-05 || [https://docs.google.com/document/d/1Tj87aYVmTLimd3xYDrjpv-UPkOmbKuNKpO1mVcHl2Tc/ 简介]
+|-
+| 利息与价格 || Interest and Prices || (瑞典) [https://en.wikipedia.org/wiki/Knut_Wicksell 克努特·维克塞尔] || 英文PDF(扫描版) || 2018-09-19 || [https://docs.google.com/document/d/1eMRCuNPF-rk2gVjQ37Ek-_JXRWEk4CKp-C2ehUlgh1Y/ 简介]
+|-
+| 卡尔·马克思及其体系的终结 || Karl Marx and the Close of His System || (奥) [https://zh.wikipedia.org/wiki/%E6%AD%90%E6%A0%B9%C2%B7%E5%8D%9A%E5%A7%86-%E5%B7%B4%E7%B6%AD%E5%85%8B 欧根·冯·庞巴维克] || 英文PDF(扫描版) || 2018-09-22 || [https://docs.google.com/document/d/1bymMDtoDnYNDMFNQd93qspc11F_caMG2YfXD9zSrsKg/ 简介]
 |-
 | 资本论 || Capital || (德) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E9%A9%AC%E5%85%8B%E6%80%9D 卡尔·马克思] || 简体PDF(大字版) || 2018-09-05 || [https://docs.google.com/document/d/1BX4SKfF_DS8s2QA5sZw__Ui52q3O535l3kdbu_govRs/ 简介]
 |}
@@ -1680,6 +1698,8 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 | 随机致富的傻瓜<br>——发现市场和人生中的隐藏机遇<br>''其它中文名：''<br>随机漫步的傻瓜 || Fooled by Randomness<br>——The Hidden Role of Chance in Life and in the Markets || (美) [https://zh.wikipedia.org/wiki/%E7%B4%8D%E8%A5%BF%E5%A7%86%C2%B7%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF%C2%B7%E5%A1%94%E9%9B%B7%E4%BC%AF 纳西姆·塔勒布] || 简体PDF(扫描版) || 2018-08-27 || [https://docs.google.com/document/d/1MBz8w1NC_5gT8PuqMkRR5dFzIJol7V92EmgOXgJQvTE/ 简介]
 |-
 | 金融炼金术 || The Alchemy of Finance || (美) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E7%B4%A2%E7%BD%97%E6%96%AF 乔治·索罗斯] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-04-29<br>2013-09-13<br>2015-05-10<br>2016-05-02 || [https://docs.google.com/document/d/1oK38fhLtBFH58dNhnV7N_n3M-QiTF-iarN_qQzSUNcw/ 简介]
+|-
+| 股票作手回忆录<br>''其它中文名：''<br>投机之王<br>——利弗莫尔合集 || Reminiscences of A Stock Operator || (美) [https://en.wikipedia.org/wiki/Edwin_Lef%C3%A8vre 埃德温·李费佛]<br>(美) [https://zh.wikipedia.org/wiki/%E5%82%91%E8%A5%BF%C2%B7%E6%9D%8E%E4%BD%9B%E6%91%A9 杰西·利弗莫尔] || 简体PDF(扫描版) || 2018-09-29 || [https://docs.google.com/document/d/1WCGQNEyXMN9xyV5OHFpgSNMn73SVclXOdeyVhtRLCYI/ 简介]
 |}
 
 == 4.4 经济学家 ==
@@ -1687,7 +1707,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 从马克思到凯恩斯<br>——十大经济学家 || Ten Great Economists<br>——from Marx to Keynes || (奥) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼得] || 简体PDF(扫描版) || 2013-04-09 || [https://docs.google.com/document/d/1wqzVgyl-J48EAqt2TTer7HQbfQxvCpr8i_9rydo7t_U/ 简介]
+| 从马克思到凯恩斯<br>——十大经济学家 || Ten Great Economists<br>——from Marx to Keynes || (奥) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9 约瑟夫·熊彼特] || 简体PDF(扫描版) || 2013-04-09 || [https://docs.google.com/document/d/1wqzVgyl-J48EAqt2TTer7HQbfQxvCpr8i_9rydo7t_U/ 简介]
 |-
 | 经济学大师们 || New Ideas from Dead Economists<br>——An Introduction to Modern Economic Thought || (美) [https://en.wikipedia.org/wiki/Todd_G._Buchholz 托德·布赫霍尔茨] || 简体PDF(扫描版) || 2018-06-24 || [https://docs.google.com/document/d/174V2UIpMrm-ODKm5pOnj_gubJ7m2lpZ_W-1BlIjF1Go/ 简介]
 |-
@@ -2409,6 +2429,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Lisp 之根源 || The Roots of Lisp || (美) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86 保罗·格雷汉姆] || 简体PS<br>英文PDF<br>[http://daiyuwen.freeshell.org/gb/rol/roots_of_lisp.html 简体WEB] || 2018-07-20<br>2016-12-12<br>N/A || [https://docs.google.com/document/d/1RskcdY9Ga7O8YV_ciefzukVOjvUMun5khGKsrIJtsDI/ 简介]
 |-
+| Lisp 的演化 || The Evolution of Lisp || (美) [https://en.wikipedia.org/wiki/Guy_L._Steele Guy Steele]<br>(美) [https://en.wikipedia.org/wiki/Richard_P._Gabriel Richard Gabriel] || 英文PDF || 2018-10-29 || [https://docs.google.com/document/d/1MUUddXp-u0Ol_1XEloMucUQOHtSRAk_Sp4eB3lJuAS0/ 简介]
+|-
 | GNU Emacs Lisp 编程入门 || An introduction to Programming in Emacs Lisp || (美) [https://en.wikipedia.org/wiki/Robert_J._Chassell Robert J. Chassell] || 简体PDF(扫描版)<br>英文PDF(版本3.10)<br>英文PDF(版本2.05) || 2018-06-28<br>2015-11-17<br>2015-11-03 || [https://docs.google.com/document/d/1LK0cf6RdqXJS5X03XaDRHk45AUviEk6euFVNHK6VH0I/ 简介]
 |-
 | Basic Lisp Techniques || Basic Lisp Techniques || David Cooper || 英文PDF || 2015-01-11 || [https://docs.google.com/document/d/175xgao1KtWlMy5OhbvZdM2LvAn1kA6uJ_3OBb7gXF6o/ 简介]
@@ -2463,7 +2485,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 七周七语言<br>——理解多种编程范型 || Seven Languages in Seven Weeks<br>——A Pragmatic Guide to Learning Programming Languages || (美) [https://en.wikipedia.org/wiki/Bruce_Tate Bruce Tate] || 简体PDF<br>英文PDF || 2017-05-06<br>2018-08-04 || [https://docs.google.com/document/d/1PE4WBmQ0Hr1cDmvd507UQweZJlDt9OYZv08tIMZs8lo/ 简介]
 |-
-| 设计模式<br>——可复用面向对象软件的基础 || Design Patterns<br>——Elements of Reusable Object-Oriented Software || Gang of Four (模式四人帮) || 简体PDF<br>英文CHM || 2013-10-21<br>2013-10-20 || [https://docs.google.com/document/d/18xDrAurnKefMe7QwMDB00bxzatFND49f7pAKePEVxwk/ 简介]
+| 设计模式<br>——可复用面向对象软件的基础 || Design Patterns<br>——Elements of Reusable Object-Oriented Software || Gang of Four (模式四人帮) || 简体PDF<br>简体PDF(扫描版)<br>英文CHM || 2013-10-21<br>2018-10-29<br>2013-10-20 || [https://docs.google.com/document/d/18xDrAurnKefMe7QwMDB00bxzatFND49f7pAKePEVxwk/ 简介]
 |-
 | Head First 设计模式 || Head First Design Patterns || [https://en.wikipedia.org/wiki/Eric_Freeman_%28writer%29 Eric Freeman]<br>Elisabeth Robson<br>Bert Bates<br>[https://en.wikipedia.org/wiki/Kathy_Sierra Kathy Sierra] || 简体PDF(扫描版) || 2016-12-23 || [https://docs.google.com/document/d/1oTe5BQoQVYgSjrk7-dzi88qIsSgiLuDlWrOe8P9VU84/ 简介]
 |-
@@ -2475,7 +2497,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 算法导论 || Introduction to Algorithms || Thomas Cormen<br>Charles Leiserson<br>Ronald Rivest<br>Clifford Stein || 简体PDF(第3版 扫描版)<br>英文PDF(第3版)<br>英文CHM (第2版) || 2015-10-25<br>2013-10-21<br>2013-10-30 || [https://docs.google.com/document/d/1IfadmAHdGN6erpKpsY62BRe9AyTXcuikR0IEK3pE-5M/ 简介]
+| 算法导论 || Introduction to Algorithms || (美) [https://en.wikipedia.org/wiki/Thomas_H._Cormen Thomas Cormen]<br>(美) [https://en.wikipedia.org/wiki/Charles_E._Leiserson Charles Leiserson]<br>(美) [https://en.wikipedia.org/wiki/Ron_Rivest Ronald Rivest]<br>(美) [https://en.wikipedia.org/wiki/Clifford_Stein Clifford Stein] || 简体PDF(第3版 扫描版)<br>英文PDF(第3版)<br>英文CHM (第2版) || 2015-10-25<br>2013-10-21<br>2013-10-30 || [https://docs.google.com/document/d/1IfadmAHdGN6erpKpsY62BRe9AyTXcuikR0IEK3pE-5M/ 简介]
 |-
 | 算法概论 || Algorithms || Sanjoy Dasgupta<br>(希腊) [https://en.wikipedia.org/wiki/Christos_Papadimitriou Christos Papadimitriou]<br>(印度) [https://en.wikipedia.org/wiki/Umesh_Vazirani Umesh Vazirani] || 英文PDF || 2018-07-29 || [https://docs.google.com/document/d/1x1d1DRwHdybMBEn5GxhJ-WhTJCibEoA3_0vN6gS8R74/ 简介]
 |-
@@ -2483,7 +2505,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 编程珠玑 || Programming Pearls || (美) [https://en.wikipedia.org/wiki/Jon_Bentley Jon Bentley] || 英文PDF(第2版)<br>简体PDF(第2版 扫描版) || 2013-10-21<br>2013-10-21 || [https://docs.google.com/document/d/1i1Z_GkpYMcw6YcHQms7hPVYb06NRpJDqx9tlluPsOjc/ 简介]
 |-
-| 数学之美 || Beauty of Mathematics || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_%28Google%29 吴军] || 简体TXT || 2016-05-15 || [https://docs.google.com/document/d/161QsDsZUGSFL4gfw65mUpmnG-XUszzdzOTXVwpFG9jg/ 简介]
+| 数学之美 || Beauty of Mathematics || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_%28Google%29 吴军] || 简体PDF(第1版)<br>简体TXT(第1版) || 2018-10-29<br>2016-05-15 || [https://docs.google.com/document/d/161QsDsZUGSFL4gfw65mUpmnG-XUszzdzOTXVwpFG9jg/ 简介]
 |}
 
 === 10.1.5 操作系统相关 ===
@@ -2619,19 +2641,21 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Windows 7 安全指南 || N/A || N/A || 简体PDF(扫描版) || 2014-02-13 || [https://docs.google.com/document/d/13_WDM8wucXtFkrBxpUw4j5BGBr_eqJrFnKLhNu6LdhI/ 简介]
 |-
-| Debian 官方安全手册 || Securing Debian Manual || N/A || 英文PDF(文档版本3.17) || 2015-07-21 || [https://docs.google.com/document/d/1LpRNda9Dsy47r1GGREpRyfNLdZ8Hs8NiDjT8uJid8CA/ 简介]
+| Debian 官方安全手册 || Securing Debian Manual || N/A || 英文PDF(文档版本3.17)<br>[https://www.debian.org/doc/manuals/securing-debian-howto/ 英文WEB] || 2015-07-21<br>N/A || [https://docs.google.com/document/d/1LpRNda9Dsy47r1GGREpRyfNLdZ8Hs8NiDjT8uJid8CA/ 简介]
 |-
-| RHEL6 官方安全手册 || Red Hat Enterprise Linux 6 Security Guide || N/A || 英文PDF || 2014-02-22 || [https://docs.google.com/document/d/1H_lMwYly38ofWZ2Ik7yWay0b5GM3TZbQ374eJ867O9s/ 简介]
+| RHEL 官方安全手册 || Red Hat Enterprise Linux Security Guide || N/A || 英文PDF(RHEL7)<br>英文PDF(RHEL6) || 2018-10-30<br>2014-02-22 || [https://docs.google.com/document/d/1H_lMwYly38ofWZ2Ik7yWay0b5GM3TZbQ374eJ867O9s/ 简介]
+|-
+| CentOS 官方安全指南 || OS Protection || N/A || [https://wiki.centos.org/HowTos/OS_Protection 英文WEB] || N/A || N/A
 |-
 | Ubuntu 桌面版官方安全手册 || Basic Ubuntu Security Guide, Desktop Edition || N/A || [https://wiki.ubuntu.com/BasicSecurity 英文WEB] || N/A || N/A
 |-
-| Fedora 官方安全手册 || Security Guide<br>——A Guide to Securing Fedora Linux || N/A || [https://docs.fedoraproject.org/security-guide/ 英文WEB] || N/A || N/A
-|-
-| openSUSE 官方安全手册 || openSUSE Security Guide || N/A || [https://activedoc.opensuse.org/book/opensuse-security-guide 英文WEB] || N/A || N/A
+| openSUSE 官方安全手册 || openSUSE Leap Security Guide || N/A || [https://doc.opensuse.org/documentation/leap/security/single-html/book.security/ 英文WEB] || N/A || N/A
 |-
 | Arch Linux 官方安全手册 || Security<br>——Recommendations and Best Practices for Hardening an Arch Linux System || N/A || [https://wiki.archlinux.org/index.php/security 英文WEB] || N/A || N/A
 |-
 | Gentoo 官方安全手册 || Gentoo Security Handbook || N/A || [https://www.gentoo.org/doc/en/security/security-handbook.xml?style=printable&full=1 英文WEB] || N/A || N/A
+|-
+| Fedora 官方 wiki 安全特性 || Security Features || N/A || [https://fedoraproject.org/wiki/Security_Features 英文WEB] || N/A || N/A
 |}
 
 === 10.3.4 入侵与渗透测试 ===
@@ -2714,7 +2738,17 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | HTTP 权威指南 || HTTP<br>——The Definitive Guide || David Gourley<br>Brian Totty<br>Marjorie Sayer<br>Sailu Reddy<br>Anshu Aggarwal || 简体PDF(扫描版) || 2018-06-28 || [https://docs.google.com/document/d/1TgujhFUzyVlf1W5e48lSMTIwJuCTElvXw2LgQ_Ng0Cs/ 简介]
 |}
 
-=== 10.5.2 (其它) ===
+=== 10.5.2 分布式 ===
+
+==== 10.5.2.1 综述 ====
+
+{|
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 分布式系统<br>——概念与设计 || Distributed Systems<br>——Concepts and Design || (英) [https://en.wikipedia.org/wiki/George_Coulouris_(computer_scientist) George Coulouris]<br>(英) Jean Dollimore<br>(英) Tim Kindberg<br>(英) Gordon Blair || 英文PDF(第5版) || 2018-11-02 || [https://docs.google.com/document/d/159RgYwexuQnL4IwHD6wyiLiek95l0WHKWzhuxvS70k8/ 简介]
+|}
+
+=== 10.5.3 (其它) ===
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
